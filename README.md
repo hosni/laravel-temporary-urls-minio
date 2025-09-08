@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/hosni/laravel-temporary-urls-minio.svg?style=flat-square)](https://packagist.org/packages/hosni/laravel-temporary-urls-minio)
 [![Total Downloads](https://img.shields.io/packagist/dt/hosni/laravel-temporary-urls-minio.svg?style=flat-square)](https://packagist.org/packages/hosni/laravel-temporary-urls-minio)
-[![License](https://img.shields.io/packagist/l/hosni/laravel-temporary-urls-minio.svg?style=flat-square)](LICENSE.md)
+[![License](https://img.shields.io/packagist/l/hosni/laravel-temporary-urls-minio.svg?style=flat-square)](LICENSE)
 [![Laravel](https://img.shields.io/badge/Laravel-9|10%20|11|12-green.svg)](https://laravel.com)
 
 ---
