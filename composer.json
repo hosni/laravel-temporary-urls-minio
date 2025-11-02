@@ -1,6 +1,6 @@
 {
     "name": "hosni/laravel-temporary-urls-minio",
-    "description": "Fix temporary url generation when using MinIO as S3 backend",
+    "description": "Fix temporary url generation when using a S3 supported backend",
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/hosni/laravel-temporary-urls-minio",
@@ -13,10 +13,11 @@
         "temporary-urls",
         "aws",
         "s3",
+        "storage",
         "minio",
-        "RustFS",
-        "SeaweedFS",
-        "Garage",
+        "rustfs",
+        "seaweedfs",
+        "garage",
         "garagehq",
         "deuxfleurs"
     ],
